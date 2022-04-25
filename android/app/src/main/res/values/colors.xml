@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="onesignal_bgimage_notif_title_color">#FF9800FF</color>
+    <color name="onesignal_bgimage_notif_body_color">#FF9800FF</color>
+</resources>

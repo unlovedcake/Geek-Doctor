@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517336506529",
+    "project_id": "geek-doctor-release",
+    "storage_bucket": "geek-doctor-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517336506529:android:c21419c3c75cf5e99150e0",
+        "android_client_info": {
+          "package_name": "com.geekdoctor.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517336506529-hug1ff95bo0q67tr7r47usbi600ernpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekdoctor.co",
+            "certificate_hash": "7188ab69a152bf769470c308a19cfb695e369de5"
+          }
+        },
+        {
+          "client_id": "517336506529-qhaoh6o5fgpl3ssbpmi5he9arjoms0mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNiM1RCGf1UY1QG9WvjwZ70-YlIwuGJ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517336506529-qhaoh6o5fgpl3ssbpmi5he9arjoms0mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
